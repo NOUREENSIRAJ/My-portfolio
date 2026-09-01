@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 
-The site opens at [https://grosssalon.netlify.app/]
+The site opens at 
 
 ## Building for production
 
